@@ -1,0 +1,13 @@
+com\scb\conformitycheck\serviceImpl\CustomerConformityServiceImpl.class
+com\scb\conformitycheck\controller\ConformitycheckRequestController.class
+com\scb\conformitycheck\model\CustomerResponse$CustomerResponseBuilder.class
+com\scb\conformitycheck\dao\CustomerConformityCheckRepo.class
+com\scb\conformitycheck\model\MsErrorLog.class
+com\scb\conformitycheck\model\CustomerRequestData.class
+com\scb\conformitycheck\model\CustomerRequestData$CustomerRequestDataBuilder.class
+com\scb\conformitycheck\dao\CustomerErrorRepo.class
+com\scb\conformitycheck\service\CustomerConformityService.class
+com\scb\conformitycheck\model\MsAuditLog.class
+com\scb\conformitycheck\ConformitycheckApplication.class
+com\scb\conformitycheck\model\CustomerResponse.class
+com\scb\conformitycheck\utils\ReceiverConstants.class

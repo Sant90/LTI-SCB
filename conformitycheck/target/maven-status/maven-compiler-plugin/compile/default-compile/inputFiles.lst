@@ -1,0 +1,11 @@
+C:\Spring Boot\Only Code\conformitycheck\src\main\java\com\scb\conformitycheck\ConformitycheckApplication.java
+C:\Spring Boot\Only Code\conformitycheck\src\main\java\com\scb\conformitycheck\utils\ReceiverConstants.java
+C:\Spring Boot\Only Code\conformitycheck\src\main\java\com\scb\conformitycheck\model\MsErrorLog.java
+C:\Spring Boot\Only Code\conformitycheck\src\main\java\com\scb\conformitycheck\dao\CustomerConformityCheckRepo.java
+C:\Spring Boot\Only Code\conformitycheck\src\main\java\com\scb\conformitycheck\model\CustomerResponse.java
+C:\Spring Boot\Only Code\conformitycheck\src\main\java\com\scb\conformitycheck\serviceImpl\CustomerConformityServiceImpl.java
+C:\Spring Boot\Only Code\conformitycheck\src\main\java\com\scb\conformitycheck\service\CustomerConformityService.java
+C:\Spring Boot\Only Code\conformitycheck\src\main\java\com\scb\conformitycheck\model\MsAuditLog.java
+C:\Spring Boot\Only Code\conformitycheck\src\main\java\com\scb\conformitycheck\model\CustomerRequestData.java
+C:\Spring Boot\Only Code\conformitycheck\src\main\java\com\scb\conformitycheck\controller\ConformitycheckRequestController.java
+C:\Spring Boot\Only Code\conformitycheck\src\main\java\com\scb\conformitycheck\dao\CustomerErrorRepo.java

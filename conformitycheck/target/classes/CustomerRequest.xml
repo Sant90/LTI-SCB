@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customerRequest>
+	<customerId>1234</customerId>
+	<customerName>SCB</customerName>
+	<serviceId>123</serviceId>
+	<customerAccType>Savings</customerAccType>
+	<customerRegion>INDIA</customerRegion>
+	<correlationId>123456</correlationId>
+</customerRequest>
