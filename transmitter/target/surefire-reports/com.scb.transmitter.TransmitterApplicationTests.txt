@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.scb.transmitter.TransmitterApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.372 s <<< FAILURE! - in com.scb.transmitter.TransmitterApplicationTests
+initializationError(com.scb.transmitter.TransmitterApplicationTests)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/springframework/core/ErrorCoded
+Caused by: java.lang.ClassNotFoundException: org.springframework.core.ErrorCoded
+
