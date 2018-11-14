@@ -1,0 +1,2 @@
+# LTI-SCB
+Java project
